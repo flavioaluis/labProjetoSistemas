@@ -3,5 +3,5 @@
 int main(int argc, char *argv[])
 {
     printf("Ola, mundo!");
-    return o;
+    return 0;
 }
