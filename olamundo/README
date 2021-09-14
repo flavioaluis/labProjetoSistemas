@@ -1,0 +1,23 @@
+# OlaMundo
+
+Apresenta uma mensagem ola seguida de um nome passado como parâmetro.
+
+## Instalação
+
+```bash
+git clone https://github.com/flavioaluis/labProjetoSistemas.git
+```
+
+## Utilização
+
+```bash
+$ cd olamundo
+./olamundo nome
+
+```
+
+## Contribuição
+Use pull requests e teste antes de fazer isto.
+
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
